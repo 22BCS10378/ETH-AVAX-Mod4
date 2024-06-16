@@ -22,5 +22,4 @@ click Deploy and confirm the transaction.
 
 ## Authors
 
-Mayank Sharma  
-[@Mayank](https://www.linkedin.com/in/mayank-sharma-078278243/)
+Arpit Srivastava
